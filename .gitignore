@@ -3,3 +3,6 @@
 .mypy_cache/
 venv/
 config.ini
+transformers_cache/
+/.quarto/
+quarto_render_script.sh
