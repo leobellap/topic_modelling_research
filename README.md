@@ -1,6 +1,22 @@
 # Topic modelling research project
 
-## Goal
+## Goals :heavy_check_mark:
 
 - To identify and analyze trends in online discussions using topic modeling
-- Source of data: Reddit, r/politics
+
+## Source of data :microscope:
+
+- Reddit, r/politics
+
+## Web version of the research notebook :computer:
+
+- Deployments - github-pages
+- Link: <https://leobellap.github.io/topic_modelling_masters/>
+
+## Main packages :wrench:
+
+- Praw: to load data from Reddit
+- SpaCy: to tokenize texts
+- SentenceTransformers: to create text embeddings
+- BERTopic: to reduce dimensions, cluster and extract topics from the data
+- SQLite: to store the results
