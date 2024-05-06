@@ -20,3 +20,8 @@
 - SentenceTransformers: to create text embeddings
 - BERTopic: to reduce dimensions, cluster and extract topics from the data
 - SQLite: to store the results
+
+## CI-CD with GitHub Actions :package:
+
+- Linting with Ruff on Push
+- Updating the web version of the research notebook on Push
