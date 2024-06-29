@@ -1,7 +1,7 @@
 .vscode/
 .ruff_cache/
 .mypy_cache/
-venv/
+.venv/
 config.ini
 transformers_cache/
 /.quarto/
