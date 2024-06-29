@@ -19,7 +19,6 @@
 - SpaCy: to tokenize texts
 - SentenceTransformers: to create text embeddings
 - BERTopic: to reduce dimensions, cluster and extract topics from the data
-- SQLite: to store the results
 
 ## CI-CD with GitHub Actions :package:
 
