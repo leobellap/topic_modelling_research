@@ -11,7 +11,7 @@
 ## Web version of the research notebook :computer:
 
 - Deployments - github-pages
-- Link: <https://leobellap.github.io/bonustrack_topic_modelling/>
+- Link: <https://leobellap.github.io/topic_modelling_research/>
 
 ## Main packages :wrench:
 
